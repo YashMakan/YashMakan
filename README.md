@@ -43,7 +43,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/bs49gtyqknutg1bzm78s5ybpf)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bs49gtyqknutg1bzm78s5ybpf&cover_image=true&theme=default)](https://open.spotify.com/user/bs49gtyqknutg1bzm78s5ybpf)
 
 ### 📫 &nbsp; How to reach me:
 
