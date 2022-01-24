@@ -16,7 +16,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Computer Vision, blockchain & Web3. Also start working on open source projects and start my youtube channel to help other developers\
 ✍️ &nbsp;In my free time, I listen music, read books & watch netflix.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at yashmakan261@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at yashmakan.work@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://www.yashmakan.co.in/resume) for more details about work experience.
 
 
@@ -47,7 +47,7 @@
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="mailto:yashmakan261@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:yashmakan.work@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/Yash_Makan"><img src="https://img.shields.io/badge/-@Yash_Makan-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a> &nbsp;
 <a href="https://yashmakan.hashnode.dev/"><img src="https://img.shields.io/badge/-@Yash_Makan-2962ff?style=flat&logo=Hashnode&logoColor=white"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/yashmakan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
