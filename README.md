@@ -17,7 +17,7 @@
 ✍️ &nbsp;In my free time, I listen music, read books & watch netflix.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at yashmakan.work@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://www.yashmakan.co.in/resume) for more details about work experience.
+📄 &nbsp;You can check my [Resume](https://raw.githubusercontent.com/YashMakan/website-assets/main/resume_2022_10102022.pdf) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
