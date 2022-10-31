@@ -10,7 +10,7 @@
 
 [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=YashMakan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-💡 &nbsp; I am Yash Makan 17y/o as of 2022, a full stack developer & technical writer \
+💡 &nbsp; I am Yash Makan 18y/o as of 2022, a full stack developer & technical writer \
 💻 &nbsp;I'm currently(2022 january) working as a cross platform app developer for a company in bangalore, writing technical blogs on [dev.to](https://dev.to/yash_makan) and [hashnode](https://yashmakan.hashnode.dev/), creating backend API's on [RapidAPI](https://rapidapi.com/user/yashmakan261), teaching python to a student, posting content on twitter, working as a freelancer by creating websites & apps for businesses & friends.\
 🎓&nbsp;I've completed my high school from DAV Public School, haryana, India (Passed 12th class in 2022).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Computer Vision, blockchain & Web3. Also start working on open source projects and start my youtube channel to help other developers\
