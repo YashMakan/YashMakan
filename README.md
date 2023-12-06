@@ -47,6 +47,7 @@
 <a href="https://yashmakan.hashnode.dev/"><img src="https://img.shields.io/badge/-@Yash_Makan-2962ff?style=flat&logo=Hashnode&logoColor=white"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/yashmakan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://instagram.com/yashmakan"><img src="https://img.shields.io/badge/-@yashmakan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://youtube.com/@YashMakan"><img src="https://img.shields.io/badge/-@yashmakan-E4405F?style=flat&logo=YouTube"/></a> &nbsp;
 
 
 
