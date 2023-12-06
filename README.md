@@ -2,7 +2,7 @@
 
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+![version :20.08.2021](https://img.shields.io/badge/version-7.12.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=YashMakan&color=red)&nbsp;
 [![GitHub YashMakan](https://img.shields.io/github/followers/YashMakan?label=follow&style=social)](https://github.com/YashMakan)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -10,14 +10,13 @@
 
 [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=YashMakan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-💡 &nbsp; I am Yash Makan 18y/o as of 2022, a full stack developer & technical writer \
-💻 &nbsp;I'm currently(2022 january) working as a cross platform app developer for a company in bangalore, writing technical blogs on [dev.to](https://dev.to/yash_makan) and [hashnode](https://yashmakan.hashnode.dev/), creating backend API's on [RapidAPI](https://rapidapi.com/user/yashmakan261), teaching python to a student, posting content on twitter, working as a freelancer by creating websites & apps for businesses & friends.\
-🎓&nbsp;I've completed my high school from DAV Public School, haryana, India (Passed 12th class in 2022).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Computer Vision, blockchain & Web3. Also start working on open source projects and start my youtube channel to help other developers\
-✍️ &nbsp;In my free time, I listen music, read books & watch netflix.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at yashmakan.work@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://raw.githubusercontent.com/YashMakan/website-assets/main/resume_2022_10102022.pdf) for more details about work experience.
+💡 &nbsp; Hi, I'm Yash Makan, a full-stack cross-platform mobile developer who enjoys creating content related to technology. \
+💻 &nbsp;Currently (as of December 2023), I'm employed as a cross-platform app developer in Bangalore. I write technical blogs on [dev.to](https://dev.to/yash_makan) and [hashnode](https://yashmakan.hashnode.dev/) and work as a freelancer, crafting apps for businesses and friends.\
+🎓&nbsp;I completed high school at DAV Public School, India, graduating in 2022.\
+🌱 &nbsp;My goal for 2024 is to enhance my skills in app development, focusing on Flutter as well as native languages like Java and Swift.\
+✍️ &nbsp;During my free time, I usually indulge in music or Netflix.\
+💬 &nbsp;Feel free to reach out to me!\
+✉️ &nbsp;You can reach me via email at yashmakan.work@gmail.com, and I'll strive to respond promptly!
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -40,10 +39,6 @@
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
-
-### Now Playing 🎧
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=bs49gtyqknutg1bzm78s5ybpf&count=1)
 
 ### 📫 &nbsp; How to reach me:
 
